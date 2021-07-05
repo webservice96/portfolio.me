@@ -48,3 +48,26 @@ h1{
 .exprerieance-area h1{
     padding-left: 5%;
 }
+
+.exprerieance-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+
+.exprerieance-item{
+    box-shadow: #ddd 2px 2px 3px 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-image: linear-gradient(orange, tomato);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+
+.exprerieance-item h3{
+    color: orange;
+}
+
+footer p{
+    text-align: center;
+}
